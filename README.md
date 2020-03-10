@@ -1,13 +1,12 @@
 # lfpolk.io
-HTML/CSS/JS web portfolio to showcase resume using template from HTML5UP
-
+Personal portfolio using template from __________
 ---
 permalink: /index.html
 ---
 
 Template credit:
 Paradigm Shift by HTML5 UP
-html5up.net | @ajlkn
+html5up.net
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 Credits:
