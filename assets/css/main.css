@@ -3155,6 +3155,12 @@ input, select, textarea {
 
 		}
 
+#arkImage {
+	width: 12rem;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
 /* Feature Icons */
 
 	ul.feature-icons {
